@@ -3,3 +3,4 @@ hhh
 w good.txt
 ZZ
 继续添加
+This line is newly added!

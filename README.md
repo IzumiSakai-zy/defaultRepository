@@ -18,7 +18,8 @@ This is the first repository I created and it is the basic and default repositor
 - 锁
 - 并发容器
 - 原子类
-- JUC并发工具类### 数据结构和算法
+- JUC并发工具类
+### 数据结构和算法
 #### 数据结构
 - 字符串
 - 数组
@@ -39,7 +40,8 @@ This is the first repository I created and it is the basic and default repositor
 - IP、ICMP协议
 - TCP、UDP协议
 - DNS、HTTP/HTTPS协议
-- Session/Cookie### MySQL数据库
+- Session/Cookie
+### MySQL数据库
 - SQL语句的书写
 - SQL语句的优化
 - 事务、隔离级别
@@ -48,7 +50,8 @@ This is the first repository I created and it is the basic and default repositor
 - 进程、线程
 - 并发、锁
 - 内存管理和调度
-- I/O原理### 设计模式
+- I/O原理
+### 设计模式
 - 单例
 - 工厂
 - 代理
@@ -66,9 +69,11 @@ This is the first repository I created and it is the basic and default repositor
 
 ### Linux系统（了解）
 - 常用命令
-- Shell脚本### 项目管理/构建工具（掌握）
+- Shell脚本
+### 项目管理/构建工具（掌握）
 - Maven
-- Gradle### 代码管理工具（了解）
+- Gradle
+### 代码管理工具（了解）
 - SVN
 - Git
 ## 应用框架
@@ -115,7 +120,8 @@ This is the first repository I created and it is the basic and default repositor
 
 	- Jetty
 
-	- Undertow（性能较好）#### 中间件（应对高并发、大容量）
+	- Undertow（性能较好）
+	#### 中间件（应对高并发、大容量）
 
 - 缓存
 
@@ -303,7 +309,8 @@ This is the first repository I created and it is the basic and default repositor
 
 	- React
 
-	- Angular-----------------------------------------------
+	- Angular
+-----------------------------------------------
 
 ## 运维知识（配置）
 

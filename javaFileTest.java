@@ -5,3 +5,4 @@ public static void main(String[] args){
 	//搞了半天是和暂存区进行比较
 	test theSeondBranch add by master
 bugFix添加一行
+bugFix再添加一行

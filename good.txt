@@ -4,3 +4,5 @@ w good.txt
 ZZ
 继续添加
 This line is newly added!
+
+master添加一行，commit一次
